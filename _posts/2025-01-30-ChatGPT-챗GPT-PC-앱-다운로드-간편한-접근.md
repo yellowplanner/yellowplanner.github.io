@@ -35,31 +35,6 @@ image: 'https://yellowplanner.github.io/assets/img/thumbnail/ChatGPT-챗GPT-PC-�
 
 <p>챗GPT 앱에 대해 사용자가 자주 묻는 질문들을 살펴보겠습니다. <b><span style="color: #ee2323;">앱을 사용하면서 생기는 다양한 질문에 대한 해답을 제공하여 사용자 이해도를 높이고자 합니다.</span></b> 몇 가지 주요 질문을 아래에 정리하였습니다.</p>
 
-<h2 id='기타_정보'>기타 정보</h2>
-
-<table>
-    <tr>
-        <td style="text-align: center; height: 17px;"><b>질문</b></td>
-        <td style="text-align: center; height: 17px;"><b>답변</b></td>
-        <td style="text-align: center; height: 17px;"><b>참고 링크</b></td>
-    </tr>
-    <tr>
-        <td style="text-align: center; height: 17px;"><b>챗GPT 앱을 다운로드하는 방법은?</b></td>
-        <td style="text-align: center; height: 17px;"><b>본문에 첨부된 링크 클릭</b></td>
-        <td style="text-align: center; height: 17px;"><b><a href="#!" target="_blank">다운로드 링크</a></b></td>
-    </tr>
-    <tr>
-        <td style="text-align: center; height: 17px;"><b>챗GPT 앱의 주요 기능은?</b></td>
-        <td style="text-align: center; height: 17px;"><b>자연어 이해 및 정보 검색</b></td>
-        <td style="text-align: center; height: 17px;"><b><a href="#!" target="_blank">기능 설명 링크</a></b></td>
-    </tr>
-    <tr>
-        <td style="text-align: center; height: 17px;"><b>앱 사용 시 주의사항은?</b></td>
-        <td style="text-align: center; height: 17px;"><b>안전한 인터넷 사용 당부</b></td>
-        <td style="text-align: center; height: 17px;"><b><a href="#!" target="_blank">안전 수칙 링크</a></b></td>
-    </tr>
-</table>
-
 <p>이렇게 다양한 질문과 그에 대한 답변을 통해 사용자는 챗GPT 앱을 더욱 잘 이해하고 활용할 수 있습니다. 사용자 피드백을 기반으로 계속해서 기능이 개선되고 있으니, 정기적으로 업데이트를 진행하는 것을 추천합니다.</p>
 
 <h2 id='결론'>결론</h2>
