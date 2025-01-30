@@ -1,7 +1,7 @@
 ---
 title: ChatGPT 챗GPT PC 앱 다운로드 간편한 접근
 author: bing
-date: 2025-01-30
+date: 2025-01-31
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

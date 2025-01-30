@@ -1,7 +1,7 @@
 ---
 title: Daily Yoga 데일리 요가 앱 다운로드 건강과 웰빙
 author: bing
-date: 2025-01-30
+date: 2025-01-31
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
