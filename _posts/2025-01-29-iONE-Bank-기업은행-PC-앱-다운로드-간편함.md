@@ -1,7 +1,7 @@
 ---
 title: iONE Bank 기업은행 PC 앱 다운로드 간편함
 author: bing
-date: 2025-01-31
+date: 2025-02-01
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
