@@ -1,7 +1,7 @@
 ---
 title: ClovaNote 클로바노트 PC 앱 다운로드 간편 설치
 author: bing
-date: 2025-02-01
+date: 2025-02-02
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

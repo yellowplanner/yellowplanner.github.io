@@ -1,7 +1,7 @@
 ---
 title: Naver Mybox 네이버 마이박스 PC 앱 다운로드 즉시 이용 가능
 author: bing
-date: 2025-02-01
+date: 2025-02-02
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

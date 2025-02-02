@@ -1,7 +1,7 @@
 ---
 title: KakaoTalk PC버전 다운로드 앱 어플 설치하기 방법 간단가이드
 author: bing
-date: 2025-02-01
+date: 2025-02-02
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

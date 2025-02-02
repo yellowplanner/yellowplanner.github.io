@@ -1,7 +1,7 @@
 ---
 title: whatsapp pc버전 다운로드 쉬운 방법
 author: bing
-date: 2025-02-01
+date: 2025-02-02
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
