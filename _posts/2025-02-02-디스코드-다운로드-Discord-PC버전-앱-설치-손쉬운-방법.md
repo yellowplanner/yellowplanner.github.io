@@ -1,7 +1,7 @@
 ---
 title: 디스코드 다운로드 Discord PC버전 앱 설치 손쉬운 방법
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false

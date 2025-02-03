@@ -1,7 +1,7 @@
 ---
 title: Google Authenticator 구글 OTP PC 앱 다운로드 안전한 인증
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
